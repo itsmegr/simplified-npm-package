@@ -1,6 +1,6 @@
 {
-  "name": "testing-npm",
-  "version": "1.0.0",
+  "name": "testing-npm8769",
+  "version": "1.0.1",
   "description": "Testing the working of npm package",
   "main": "src/index.js",
   "bin": "src/index.js",
